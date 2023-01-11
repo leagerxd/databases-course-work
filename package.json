@@ -9,12 +9,13 @@
   "scripts": {
     "docs:dev": "npx vuepress dev docs",
     "docs:build": "npx vuepress build docs",
-    "publish": "sh publish.sh",
+    "publish": "publish.sh",
     "start": "nodemon src/js/server.js"
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.7.1",
     "@vuepress/plugin-pwa": "^1.7.1",
+    "caniuse-lite": "^1.0.30001442",
     "express": "^4.18.2",
     "mysql2": "^2.3.3",
     "nodemon": "^2.0.20",
