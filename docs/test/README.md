@@ -1,37 +1,37 @@
 # Тестування працездатності системи
 
-## GET-запит для отримання всіх питань з бази
+## GET-запит для отримання всіх дій над опитуванням з бази
 
-<img width="849" alt="Знімок екрана 2023-01-04 о 12 13 42" src="https://user-images.githubusercontent.com/89911844/210533054-66da522b-0768-4cb4-8b08-8ec393c2d821.png">
+![Screenshot_5](https://user-images.githubusercontent.com/89913477/211866624-9953d5b2-9d46-4a63-aeca-e1a8d2bb2edc.png)
 
-## GET-запит для отримання одного питання з конкретним ID
+## GET-запит для отримання однієї дії над опитуванням з конкретним ID
 
-<img width="848" alt="Знімок екрана 2023-01-04 о 12 15 19" src="https://user-images.githubusercontent.com/89911844/210533170-980daf3f-0035-4220-b4e4-2c737280a096.png">
+![Screenshot_6](https://user-images.githubusercontent.com/89913477/211866711-6d56b44e-9d52-4cd3-94ba-963754f2dc11.png)
 
-## POST-запит для створення одного питання, при цьому ID інкрементується автоматично
+## POST-запит для створення однієї дії над опитуванням, при цьому ID інкрементується автоматично
 
-<img width="853" alt="Знімок екрана 2023-01-04 о 12 16 44" src="https://user-images.githubusercontent.com/89911844/210533457-a849f9e5-f230-40fc-ac86-903294e5fd02.png">
+![Screenshot_7](https://user-images.githubusercontent.com/89913477/211866782-c4005381-7a07-4496-a56a-1cf5ca31c154.png)
 
-### GET-запит для перевірки створення питання
+### GET-запит для перевірки створення дії над опитуванням.
 
-<img width="855" alt="Знімок екрана 2023-01-04 о 12 18 01" src="https://user-images.githubusercontent.com/89911844/210533682-2e8e5301-a569-4042-9b37-a9cf532e8f2c.png">
+![Screenshot_8](https://user-images.githubusercontent.com/89913477/211867059-491f3dad-79a3-4538-b1ac-b85b11b8614f.png)
 
-## PUT-запит для оновлення питання
+## PUT-запит для оновлення дії над опитуванням.
 
-### Оновляємо питання з ID=14
+### Оновляємо дію над опитуванням з ID=1
 
-<img width="850" alt="Знімок екрана 2023-01-04 о 12 19 51" src="https://user-images.githubusercontent.com/89911844/210534088-03c4e456-a4ec-4c07-a7c1-d7bb11946bc1.png">
+![Screenshot_9](https://user-images.githubusercontent.com/89913477/211867192-57bee506-f0e7-4af4-8553-004e9f08046c.png)
 
-### GET-запит для перевірки оновлення питання з ID=14
+### GET-запит для перевірки оновлення дії над опитуванням з ID=1
 
-<img width="851" alt="Знімок екрана 2023-01-04 о 12 20 09" src="https://user-images.githubusercontent.com/89911844/210534249-ac74d9a3-abab-456d-bd41-822353cd0c28.png">
+![Screenshot_10](https://user-images.githubusercontent.com/89913477/211867326-f425d2fc-78f4-4c88-bc3d-e016146b62a4.png)
 
-## DELETE-запит для видалення питання з бази
+## DELETE-запит для видалення дії над опитуванням з бази
 
-### Видалення питання з ID=14
+### Видалення дії над опитуванням з ID=1
 
-<img width="625" alt="Знімок екрана 2023-01-04 о 12 22 39" src="https://user-images.githubusercontent.com/89911844/210534456-9d0b4cd6-b6bc-4a27-b55f-e1d8708a489a.png">
+![Screenshot_11](https://user-images.githubusercontent.com/89913477/211867366-31919b5b-62fb-41ef-a516-9b7df55ba3cb.png)
 
-### GET-запит для перевірки видалення питання з ID=14
+### GET-запит для перевірки видалення дії над опитуванням з ID=1
 
-<img width="847" alt="Знімок екрана 2023-01-04 о 12 23 22" src="https://user-images.githubusercontent.com/89911844/210534594-2d10f216-9c86-4e6a-9128-3b3527ea5ca2.png">
+![Screenshot_13](https://user-images.githubusercontent.com/89913477/211868925-dac7dede-d7ac-4cfb-9943-e739109e1963.png)
